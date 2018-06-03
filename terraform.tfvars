@@ -1,0 +1,5 @@
+aws_profile = "angapov"
+aws_region = "ap-south-1"
+instance_type = "t2.micro"
+key_name = "angapov"
+root_size = "20"
